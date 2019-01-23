@@ -8,8 +8,6 @@
 <h2> saif </h2>
 
 </body>
-<footer>
 
-</footer>
 
 </html>
